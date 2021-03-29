@@ -141,7 +141,7 @@ When you run the script, you can see the following error message.
 {
   "error": {
     "code": 403,
-    "message": "Apps Script API has not been used in project 3523622449 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/script.googleapis.com/overview?project=### then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "message": "Apps Script API has not been used in project ### before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/script.googleapis.com/overview?project=### then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
     "status": "PERMISSION_DENIED",
     "details": [, , ,]
   }
@@ -285,7 +285,7 @@ When you run the script, you can see the following error message.
 {
   "error": {
     "code": 403,
-    "message": "Photos Library API has not been used in project 3523622449 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/photoslibrary.googleapis.com/overview?project=### then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "message": "Photos Library API has not been used in project ### before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/photoslibrary.googleapis.com/overview?project=### then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
     "status": "PERMISSION_DENIED",
     "details": [, , ,]
   }
